@@ -1,4 +1,4 @@
-# I Long for Network Spirituality
+  # I Long for Network Spirituality
 
 <p align="center">
   <img src="assets/images/smiley.png" alt="Network Spirituality" width="100">
